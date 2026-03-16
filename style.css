@@ -198,7 +198,7 @@ Mobile Hamburger Menu - Only affects max-width: 768px and below
 
 @media (max-width: 768px) {
     .hamburger {
-        display: flex;
+        display: flex !important;
     }
     
     .nav-menu {
